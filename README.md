@@ -1,1 +1,4 @@
 # DSChecklist
+
+Stack
+Queue
